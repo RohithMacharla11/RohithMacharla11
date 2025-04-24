@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithmacharla11" alt="rohithmacharla11" /></a> </p>
 
-- 🔭 I’m currently working on **Hand Sign Detection**
+- 🔭 I’m currently working on **Smart Voting System**
 
-- 🌱 I’m currently learning **Neural Networks, Java Data Structures**
+- 🌱 I’m currently learning **Neural Networks, Java Data Structures, Android Development**
 
 - 📫 How to reach me **macharlarohith111@gmail.com**
 
