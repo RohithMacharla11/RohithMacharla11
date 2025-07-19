@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="portfolio" alt="Header" width="1000" height="200"/>
+  <img src="portfolio.mp4" alt="Header" width="1000" height="200"/>
 </p>
 <h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm Rohith Macharla</span> </h1>
 <h3 align="center"> <span style="color:#33FF57">Aspiring Machine Learning & AI Specialist & Enthusiastic Full-Stack Developer  Ready to Innovate</span> </h3>
