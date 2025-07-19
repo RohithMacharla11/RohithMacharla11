@@ -145,14 +145,16 @@
 
 ## 🏢 Organizations
 
-<p align="center">
+<p >
 <!--   <a href="https://nitw.ac.in/"><img alt="Monosage" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/National_Institute_of_Technology_Warangal_Logo.svg/120px-National_Institute_of_Technology_Warangal_Logo.svg.png" width="100"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://skillcraft.ai/"><img alt="Infosys SpringBoard" src="https://skillcraft.ai/assets/images/logo.png" width="120"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://sruniversity.edu.in/"><img alt="SR University" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SR_University_Logo.svg/120px-SR_University_Logo.svg.png" width="100"/></a> -->
-  <h3>SR University</h3>&nbsp;&nbsp;&nbsp;<h3>Infosys SpringBoard</h3>&nbsp;&nbsp;&nbsp;<h3>Monosage</h3>&nbsp;&nbsp;&nbsp;<h3>Google Developers Group</h3>
+  <p style="font-size: 1.17em; font-weight: bold; align="center";">
+  SR University &nbsp;&nbsp; Infosys SpringBoard &nbsp;&nbsp; Monosage &nbsp;&nbsp; Google Developers Group
 </p>
+
 
 <p align="center">
   Active intern and contributor at these organizations fostering AI, ML, IoT research, and development.
