@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="enhanced_output.gif" alt="Header" height="200"/>
-  <img src="saved.gif" alt="Header" height="200"/>
+  <img src="saved.gif" alt="Header" height="400"/>
 </p>
 <h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm Rohith Macharla</span> </h1>
 <h3 align="center"> <span style="color:#33FF57">Aspiring Machine Learning & AI Specialist & Enthusiastic Full-Stack Developer  Ready to Innovate</span> </h3>
