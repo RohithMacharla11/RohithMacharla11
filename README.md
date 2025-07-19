@@ -151,14 +151,14 @@
   <a href="https://skillcraft.ai/"><img alt="Infosys SpringBoard" src="https://skillcraft.ai/assets/images/logo.png" width="120"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://sruniversity.edu.in/"><img alt="SR University" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SR_University_Logo.svg/120px-SR_University_Logo.svg.png" width="100"/></a> -->
-  <p style="font-size: 1.17em; font-weight: bold; align="center";">
+<p style="font-size: 1.17em; font-weight: bold; text-align: center;">
   SR University &nbsp;&nbsp; Infosys SpringBoard &nbsp;&nbsp; Monosage &nbsp;&nbsp; Google Developers Group
 </p>
 
-
-<p align="center">
-  Active intern and contributor at these organizations fostering AI, ML, IoT research, and development.
+<p style="text-align: center;">
+  Active intern and contributor at these organizations fostering AI, ML, IoT research, and development.
 </p>
+
 
 ---
 
