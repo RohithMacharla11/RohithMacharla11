@@ -1,21 +1,34 @@
-<p align="center">
+<div align="center">
   <img src="saved.gif" alt="Header" height="300"/>
-</p>
-<h1 align="center"> <span style="color:#FF5733">Hi 👋, I'm Rohith Macharla</span> </h1>
-<h3 align="center"> <span style="color:#33FF57">Aspiring Machine Learning & AI Specialist & Enthusiastic Full-Stack Developer  Ready to Innovate</span> </h3>
+
+  # Hi 👋, I'm Rohith Macharla
+  
+  ### Aspiring Machine Learning & AI Specialist | Enthusiastic Full-Stack Developer
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;Full-Stack+Developer;Ready+to+Innovate" alt="Typing Animation" />
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;PHP+Full+Stack+Developer;Full+Stack+Developer" alt="Typing Animation" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RohithMacharla11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/macharla-rohith-rm2005/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/RohithMacharla11">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/RohithMac25/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/RohithMac">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=RohithMacharla11">
+    <img src="https://komarev.com/ghpvc/?username=RohithMacharla11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=rohithmacharla11&theme=gruvbox&margin-w=80&margin-h=20&row=2&column=6" 
-      alt="rohithmacharla11"
-    />
+    <img src="https://github-profile-trophy.vercel.app/?username=rohithmacharla11&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
   </a>
 </p>
 
@@ -23,154 +36,105 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[EmoLearn - A Multi Modal AI]((https://github.com/RohithMacharla11/emolearn))**
-- 🌱 I’m learning **Advanced Web Development & ML Techniques**
-- 📄 Know more: [My Resume](https://drive.google.com/file/d/1UseCmqhM_r4cPMvBEj_oaKxlZ4nOd9BF/view?usp=sharing) | [My Portfolio](https://rohithmacharla11.github.io/Portfolio/)
-- 💬 Ask me about **C, Python, AI, ML, DL, Wordpress and FrontEnd Development**
-- 📫 Reach me at **macharlarohith111@gmail.com**
+- 💡 I'm an aspiring AI/ML Engineer and Full-Stack Developer with a passion for building innovative solutions that solve real-world problems.
+- 🔭 I’m currently building **[EmoLearn](https://github.com/RohithMacharla11/emolearn)**, a multi-modal AI for emotion recognition.
+- 🌱 I’m focused on learning **Advanced Web Frameworks** and **State-of-the-Art ML Techniques**.
+- 💬 Ask me about: `C`, `Python`, `AI/ML`, `Deep Learning`, `WordPress`, and `Frontend Development`.
+- 📫 How to reach me: **macharlarohith111@gmail.com**
+- 📄 Check out my work: [**My Resume**](https://drive.google.com/file/d/1UseCmqhM_r4cPMvBEj_oaKxlZ4nOd9BF/view?usp=sharing) | [**My Portfolio**](https://rohithmacharla11.github.io/Portfolio/)
 
 ---
 
-## 🌐 Connect with Me
+##  spotlight on Projects
 
-<p align="center">
-  <a href="(https://www.linkedin.com/in/macharla-rohith-rm2005/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="(https://github.com/RohithMacharla11)">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="(https://leetcode.com/u/RohithMac25/)">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
-  </a>
-  <a href="(https://www.hackerrank.com/profile/RohithMac)">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
-  </a>
-  <a href="(https://rohithmacharla11.github.io/Portfolio/)">
-    <img src="https://img.shields.io/badge/PORTFOLIO   -543156?style=for-the-badge&logo=portfolio"/>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr valign="top">
+      <td width="50%">
+        <h3><a href="https://github.com/RohithMacharla11/emolearn">EmoLearn - A Multi-Modal AI</a></h3>
+        <p>A sophisticated AI project designed to recognize human emotions through a combination of facial expressions, voice tonality, and text analysis. Aims to provide a holistic emotional understanding for applications in mental health tech and user experience research.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3><a href="#">AI Recruitment Pipeline</a></h3>
+        <p>Developed during my time at Infosys SpringBoard, this project automates the initial stages of recruitment by parsing resumes, ranking candidates based on job descriptions using NLP, and streamlining the shortlisting process for HR professionals.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+          <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 💻 Skills
+## 🛠️ My Tech Stack
 
-### 🧠 Programming & AI
-
+#### 🧠 Programming, AI & ML
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### 🌐 Web Development
-
+#### 🌐 Web Development & Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### ☁ Cloud & Tools
-
+#### ☁️ Cloud, Tools & Platforms
 <p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-012922?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MYSQL-312543?style=for-the-badge&logo=sql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F05032?style=for-the-badge&logo=sql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-34534?style=for-the-badge&logo=sql&logoColor=white"/>
-</p>
-
-### 🗄 Databases
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-CC2927?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Statistics
 
-- 🧠 Finalist in **HackronyX Hackathon**
-- 💡 Developed AI Recuriment Pipeline @ **Infosys SpringBoard**
-- 📊 Hosted Wordpress websites @ **Monosage**
-- 📜 Certified by **Cisco**, **NPTEL**, and **AICTE**
-
----
-
-## 👥 Contributions & Community
-
-- 🤝 Contributing to open-source and personal dev projects
-- 🌱 Building in public and mentoring juniors
-- 💬 Actively engaging in GitHub issues & Commits
-- 🧑‍💻 Participating in national-level hackathons
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</div>
 
 ---
 
-## 📅 Contribution Activity
+## 🏆 Achievements & Experience
 
-<!-- GitHub contributions calendar -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RohithMacharla11&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" />
-</p>
-
-### 📊 Contributions by Year and Month
-
-| Year | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-|-------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| 2025  | 25  | 30  | 40  | 50  | 60  | —   | —   | —   | —   | —   | —   | —   |
-| 2024  | 80  | 75  | 90  | 85  | 100 | 110 | 95  | 90  | 85  | 80  | 75  | 60  |
-| 2023  | 60  | 65  | 70  | 75  | 80  | 85  | 90  | 95  | 100 | 105 | 110 | 115 |
-
-*Note: You can update these numbers manually or automate with a bot or API.*
+-   **Hackathon Finalist** | *HackronyX Hackathon*
+    -   Achieved finalist status by developing a novel solution in a competitive national-level event.
+-   **AI Development Intern** | *Infosys SpringBoard*
+    -   Developed and deployed a functional AI Recruitment Pipeline, gaining hands-on experience in applied machine learning.
+-   **WordPress Developer** | *Monosage*
+    -   Successfully designed, built, and hosted multiple client websites, focusing on performance and user experience.
+-   **Active Community Member** | *Google Developer Groups*
+    -   Regularly participate in tech talks, workshops, and community events, contributing to a culture of shared learning.
+-   **Certifications**
+    -   Earned multiple certifications in networking, programming, and AI from respected institutions like **Cisco**, **NPTEL**, and **AICTE**.
 
 ---
-
-## 🏢 Organizations
-
-<p >
-<!--   <a href="https://nitw.ac.in/"><img alt="Monosage" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/National_Institute_of_Technology_Warangal_Logo.svg/120px-National_Institute_of_Technology_Warangal_Logo.svg.png" width="100"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://skillcraft.ai/"><img alt="Infosys SpringBoard" src="https://skillcraft.ai/assets/images/logo.png" width="120"/></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://sruniversity.edu.in/"><img alt="SR University" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SR_University_Logo.svg/120px-SR_University_Logo.svg.png" width="100"/></a> -->
-<p style="font-size: 1.17em; font-weight: bold; text-align: center;">
-  SR University &nbsp;&nbsp; Infosys SpringBoard &nbsp;&nbsp; Monosage &nbsp;&nbsp; Google Developers Group
-</p>
-
-<p style="text-align: center;">
-  Active intern and contributor at these organizations fostering AI, ML, IoT research, and development.
-</p>
-
-
----
-
-## 🌐 Connect with Me
-
-| Icon                                                                 | Link                                                                                   |
-|----------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/> | [LinkedIn](https://www.linkedin.com/in/macharla-rohith-rm2005)       |
-| <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"/> | [GitHub](https://github.com/RohithMacharla11/RohithMacharla11)                                            |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="25"/> | [LeetCode](https://leetcode.com/u/RohithMac25/)                          |
-| <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="25"/> | [Email](mailto:macharlarohith111@gmail.com)                                      |
-| 🌐                                                                 | [Portfolio](https://rohithmacharla11.github.io/Portfolio/)                         |
-
----
-
