@@ -120,15 +120,15 @@
 
 <!-- GitHub contributions calendar -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiva-vangala&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shiva-vangala&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RohithMacharla11&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiva-vangala&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=false&area=true&custom_title=Contribution%20Graph" />
 </p>
 
 ### 📊 Contributions by Year and Month
