@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akhilanandateja&margin-w=5&no-bg=true&theme=nord" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RohithMacharla11&margin-w=5&no-bg=true&theme=nord" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -126,12 +126,12 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/RohithMacharla11/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages"/>
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/RohithMacharla11/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
       </a>
     </td>
