@@ -119,22 +119,18 @@
 
 <div align="center">
 
-<!-- Top Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages" height="150"/>
 </a>
 
-<!-- Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" height="150"/>
 </a>
 
-<!-- Streak Stats -->
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </a>
 
-<!-- Activity Graph -->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" height="300"/>
 </a>
