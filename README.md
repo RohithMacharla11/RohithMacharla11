@@ -22,6 +22,7 @@
   <a href="https://www.hackerrank.com/profile/RohithMac">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
   </a>
+  
   <a href="https://komarev.com/ghpvc/?username=RohithMacharla11">
     <img src="https://komarev.com/ghpvc/?username=RohithMacharla11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
   </a>
