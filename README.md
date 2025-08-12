@@ -126,30 +126,25 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/RohithMacharla11/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages"/>
-      </a>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" width="100%" />
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/RohithMacharla11/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-      </a>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" width="100%" />
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
+</p>
+
 
 ---
 
