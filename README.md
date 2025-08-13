@@ -137,9 +137,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" width="90%" />
-</p>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+</a>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
