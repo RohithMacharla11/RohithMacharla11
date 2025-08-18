@@ -1,8 +1,6 @@
 <div align="center">
   <img src="saved.gif" alt="Header" height="300"/>
 </div>
-
-
 <div align="center">
   
   <h1>
