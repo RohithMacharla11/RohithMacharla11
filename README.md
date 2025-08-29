@@ -139,7 +139,7 @@
 
 ---
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats" align = "center">
   <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 </a>
 
