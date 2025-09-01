@@ -9,7 +9,6 @@
   <h3>Aspiring Machine Learning & AI Specialist | Enthusiastic Full-Stack Developer</h3>
 </div>
 
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;Full-Stack+Developer;Ready+to+Innovate" alt="Typing Animation" />
 </div>
