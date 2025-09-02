@@ -38,7 +38,6 @@
 - 📄 Check out my work: [**My Resume**](https://drive.google.com/file/d/1UseCmqhM_r4cPMvBEj_oaKxlZ4nOd9BF/view?usp=sharing) | [**My Portfolio**](https://rohithmacharla11.github.io/Portfolio/)
 
 ---
-
 ### 🌟 Spotlight on Projects
 
 <table width="100%">
@@ -69,7 +68,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ### 🛠️ My Tech Stack
