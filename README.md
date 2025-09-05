@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://i.imgur.com/L8013Co.gif" alt="AI & Neural Network Animation" width="100%"/>
+  <img src="saved.gif" alt="Header" height="300"/>
 </div>
-<br>
-
 <div align="center">
+  
   <h1>
     Hi there, I'm Rohith Macharla 👋
   </h1>
@@ -11,9 +10,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;Full-Stack+Developer;Let's+Build+the+Future" alt="Typing Animation" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;Full-Stack+Developer;Ready+to+Innovate" alt="Typing Animation" />
 </div>
 
 <p align="center">
