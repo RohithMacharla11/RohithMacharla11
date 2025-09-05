@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://i.imgur.com/L8013Co.gif" alt="AI & Neural Network Animation" width="100%"/>
 </div>
+<br>
 
 <div align="center">
-  <br>
   <h1>
     Hi there, I'm Rohith Macharla 👋
   </h1>
@@ -27,19 +27,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
-I'm an aspiring **AI/ML Engineer** and **Full-Stack Developer** passionate about building innovative solutions that solve real-world problems. My journey is fueled by a constant desire to learn and apply state-of-the-art technologies.
+I'm an aspiring **AI/ML Engineer** and **Full-Stack Developer** with a deep passion for building innovative solutions to real-world problems. My journey is driven by a constant curiosity and a desire to leverage state-of-the-art technologies to create impactful applications.
 
 - 🔭 I’m currently building **[EmoLearn](https://github.com/RohithMacharla11/emolearn)**, a multi-modal AI for holistic emotion recognition.
 - 🌱 My focus is on mastering **Advanced Web Frameworks** and diving deeper into **Modern ML Architectures**.
 - 💬 Feel free to ask me about: `Python`, `AI/ML`, `Deep Learning`, `Web Development`, and `Cloud Technologies`.
 - 📫 Let's connect: **macharlarohith111@gmail.com**
-- 📄 My work: [**Resume**](https://drive.google.com/file/d/1UseCmqhM_r4cPMvBEj_oaKxlZ4nOd9BF/view?usp=sharing) | [**Portfolio**](https://rohithmacharla11.github.io/Portfolio/)
+- 📄 Check out my work: [**Resume**](https://drive.google.com/file/d/1UseCmqhM_r4cPMvBEj_oaKxlZ4nOd9BF/view?usp=sharing) | [**Portfolio**](https://rohithmacharla11.github.io/Portfolio/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ My Tech Arsenal
-Here are some of the technologies I work with. The animated icons give a "live" feel to the stack!
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,java,tensorflow,pytorch,opencv,sklearn,html,css,js,bootstrap,php,mysql,mongodb,git,github,aws,gcp,postman,flask,fastapi,colab,jupyter,figma,wordpress&perline=10" />
@@ -82,19 +80,29 @@ Here are some of the technologies I work with. The animated icons give a "live" 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 My GitHub Pulse
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-<br>
-<div align="center">
+
+<table width="100%" border="0" style="border: none;">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=RohithMacharla11&margin-w=5&no-bg=true&theme=tokyonight" alt="GitHub Trophies"/>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
-</div>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
