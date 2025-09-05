@@ -13,6 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Machine+Learning+Developer;AI/ML+Engineer;Full-Stack+Developer;Ready+to+Innovate" alt="Typing Animation" />
 </div>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/macharla-rohith-rm2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/RohithMacharla11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -21,37 +22,31 @@
   <a href="https://komarev.com/ghpvc/?username=RohithMacharla11"><img src="https://komarev.com/ghpvc/?username=RohithMacharla11&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 About Me
-I'm an aspiring **AI/ML Engineer** and **Full-Stack Developer** with a deep passion for building innovative solutions to real-world problems. My journey is driven by a constant curiosity and a desire to leverage state-of-the-art technologies to create impactful applications.
-
-- 🔭 I’m currently building **[EmoLearn](https://github.com/RohithMacharla11/emolearn)**, a multi-modal AI for holistic emotion recognition.
-- 🌱 My focus is on mastering **Advanced Web Frameworks** and diving deeper into **Modern ML Architectures**.
-- 💬 Feel free to ask me about: `Python`, `AI/ML`, `Deep Learning`, `Web Development`, and `Cloud Technologies`.
-- 📫 Let's connect: **macharlarohith111@gmail.com**
-- 📄 Check out my work: [**Resume**](https://drive.google.com/file/d/1UseCmqhM_r4cPMvBEj_oaKxlZ4nOd9BF/view?usp=sharing) | [**Portfolio**](https://rohithmacharla11.github.io/Portfolio/)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ My Tech Arsenal
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,java,tensorflow,pytorch,opencv,sklearn,html,css,js,bootstrap,php,mysql,mongodb,git,github,aws,gcp,postman,flask,fastapi,colab,jupyter,figma,wordpress&perline=10" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=RohithMacharla11&margin-w=5&no-bg=true&theme=nord" alt="GitHub Trophies"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🌟 Spotlight Projects
 
-<table width="100%" border="0" style="border: none;">
+### 🚀 About Me
+- 💡 Aspiring AI/ML Engineer and Full-Stack Developer with a passion for building innovative solutions that solve real-world problems.
+- 🔭 I’m currently building **[EmoLearn](https://github.com/RohithMacharla11/emolearn)**, a multi-modal AI for emotion recognition.
+- 🌱 Focused on learning **Advanced Web Frameworks** and **State-of-the-Art ML Techniques**.
+- 💬 Ask me about: `C`, `Python`, `AI/ML`, `Deep Learning`, `WordPress`, and `Frontend Development`.
+- 📫 How to reach me: **macharlarohith111@gmail.com**
+- 📄 Check out my work: [**My Resume**](https://drive.google.com/file/d/1UseCmqhM_r4cPMvBEj_oaKxlZ4nOd9BF/view?usp=sharing) | [**My Portfolio**](https://rohithmacharla11.github.io/Portfolio/)
+
+---
+### 🌟 Spotlight on Projects
+
+<table width="100%">
   <tr valign="top">
-    <td width="50%" style="padding: 10px;">
-      <h3 align="center"><a href="https://github.com/RohithMacharla11/emolearn">EmoLearn - A Multi-Modal AI</a></h3>
-      <div align="center">
-        <p>A sophisticated AI project to recognize human emotions via facial expressions, voice, and text. Aims to provide holistic emotional understanding for applications in mental health tech and UX research.</p>
-        <p>
+    <td width="50%">
+      <div style="background-color: #1a1b27; border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+        <h3><a href="https://github.com/RohithMacharla11/emolearn">EmoLearn - A Multi-Modal AI</a></h3>
+        <p>A sophisticated AI project designed to recognize human emotions through a combination of facial expressions, voice tonality, and text analysis. Aims to provide a holistic emotional understanding for applications in mental health tech and user experience research.</p>
+        <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
           <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
@@ -59,11 +54,11 @@ I'm an aspiring **AI/ML Engineer** and **Full-Stack Developer** with a deep pass
         </p>
       </div>
     </td>
-    <td width="50%" style="padding: 10px;">
-      <h3 align="center"><a href="#">AI Recruitment Pipeline</a></h3>
-      <div align="center">
-        <p>An automated pipeline developed at Infosys SpringBoard that parses resumes, ranks candidates using NLP, and streamlines the initial shortlisting process for HR professionals, enhancing efficiency.</p>
-        <p>
+    <td width="50%">
+      <div style="background-color: #1a1b27; border: 1px solid #30363d; padding: 15px; border-radius: 10px;">
+        <h3><a href="#">AI Recruitment Pipeline</a></h3>
+        <p>Developed during my time at Infosys SpringBoard, this project automates the initial stages of recruitment by parsing resumes, ranking candidates based on job descriptions using NLP, and streamlining the shortlisting process for HR professionals.</p>
+        <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
           <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLTK"/>
@@ -73,50 +68,95 @@ I'm an aspiring **AI/ML Engineer** and **Full-Stack Developer** with a deep pass
     </td>
   </tr>
 </table>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🛠️ My Tech Stack
 
-## 📊 My GitHub Pulse
-
-<table width="100%" border="0" style="border: none;">
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages"/>
+    <td width="33%" valign="top" align="center">
+      <h4>🧠 Programming, AI & ML</h4>
+      <p>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+      </p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
+    <td width="33%" valign="top" align="center">
+      <h4>🌐 Web Dev & Databases</h4>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <br>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=RohithMacharla11&margin-w=5&no-bg=true&theme=tokyonight" alt="GitHub Trophies"/>
+    <td width="33%" valign="top" align="center">
+      <h4>☁️ Cloud, Tools & Platforms</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+        <br>
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
 
+---
+
+### 📊 GitHub Statistics
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats" align = "center">
+  <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+</a>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Accomplishments & Experience
+---
+
+### 🏆 Achievements & Experience
 
 - 🏆 **Hackathon Finalist** | *HackronyX Hackathon*
   - Achieved finalist status by developing a novel solution in a competitive national-level event.
 - 👨‍💻 **AI Development Intern** | *Infosys SpringBoard*
-  - Developed and deployed a functional AI Recruitment Pipeline, gaining hands-on experience in applied ML.
+  - Developed and deployed a functional AI Recruitment Pipeline, gaining hands-on experience in applied machine learning.
 - 🌐 **WordPress Developer** | *Monosage*
   - Successfully designed, built, and hosted multiple client websites, focusing on performance and user experience.
 - 🤝 **Active Community Member** | *Google Developer Groups*
-  - Regularly participate in tech talks and workshops, contributing to a culture of shared learning.
+  - Regularly participate in tech talks, workshops, and community events, contributing to a culture of shared learning.
 - 📜 **Certifications**
-  - Earned certifications in networking, programming, and AI from **Cisco**, **NPTEL**, and **AICTE**.
-
-<div align="center">
-  <br>
-  <p>Let's connect and build something amazing together!</p>
-</div>
+  - Earned multiple certifications in networking, programming, and AI from respected institutions like **Cisco**, **NPTEL**, and **AICTE**.
