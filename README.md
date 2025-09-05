@@ -121,29 +121,24 @@
 </table>
 
 ---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 GitHub Statistics
+## 📊 My GitHub Pulse
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Top Languages"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" alt="GitHub Stats"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph"/>
+</div>
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohithMacharla11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" width="100%" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=RohithMacharla11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=7200" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats" align = "center">
-  <img src="https://streak-stats.demolab.com?user=RohithMacharla11&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
-</a>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohithMacharla11&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ---
